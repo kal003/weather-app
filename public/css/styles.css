@@ -55,6 +55,10 @@ button {
     padding: 8px;
 }
 
-#message-1, #message-2 {
+#message-1 {
+    color: red;
+}
+
+#message-2 {
     color: green;
 }
